@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
+//wyrzuc static casta
 
 using namespace std;
 
